@@ -1,7 +1,13 @@
+**Copyright Notice:**
+
+All content and code in this repository are protected by copyright law. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author. Unauthorized copying or reproduction of any content or code is strictly prohibited. If you wish to use any portion of this repository, please contact the author for permission.
+
+© 2024 [Ray An]
+
 # DeepFake Detection References 
 ( Shoutout to Daisy for indexing)
 
-Why is there an urgent need to address image fabrications?
+Why is there an urgent need to address image fabrications and forgery?
 Start with the why. **Image fakery**: [Website](https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/)
 
 A list of Deepfakes Detection datasets, tools, papers and code ( Thanks to Daisy for the initial collection)
