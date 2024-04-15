@@ -4,11 +4,14 @@ All content and code in this repository are protected by copyright law. No part 
 
 © 2024 
 *******************************************************************************************
+
+- ### A comprehensive beginniers guide to image analysis [Introduction to Image Analysis: Understanding the Basics and Applications](https://www.imageprovision.com/articles/introduction-to-image-analysis-understanding-the-basics-and-applications)
+- ### Why is there an urgent need to address image fabrications and forgery? Start with the why. [Image fakery](https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/)
+
+*********************************************************************************************
+
 # DeepFake Detection References 
 ( Shoutout to Daisy for indexing)
-
-Why is there an urgent need to address image fabrications and forgery?
-Start with the why. **Image fakery**: [Website](https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/)
 
 A list of Deepfakes Detection datasets, tools, papers and code ( Thanks to Daisy for the initial collection)
 ## Contents
