@@ -1,6 +1,9 @@
 # DeepFake Detection References 
 ( Shoutout to Daisy for indexing)
 
+Why is there an urgent need to address image fabrications?
+Start with the why. **Image fakery**: [Website](https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/)
+
 A list of Deepfakes Detection datasets, tools, papers and code. If this list help you in your research, a star is my pleasure.
 
 
@@ -9,6 +12,7 @@ A list of Deepfakes Detection datasets, tools, papers and code. If this list hel
 - [Datasets](#datasets)
 - [Competitions](#competitions)
 - [Tools](#tools)
+- [Examples- image fabrications](#examples)
 - [Recent Conference Papers](#recent-conference-papers)
 - [Survey](#survey)
 - [Spatiotemporal Based](#spatiotemporal-based)
@@ -109,7 +113,8 @@ A list of Deepfakes Detection datasets, tools, papers and code. If this list hel
 * **Image analyser**: [website](https://github.com/caomw/matlab-forensics)
 * **Synthetic (Fake) Canon CR2 generation** [Website](https://github.com/lclevy/libcraw2)
 
-
+### Examples
+* **Jonas Cloud images** [Website](https://www.linkedin.com/feed/update/urn:li:activity:7158730362553044993/)
 
 ## Recent Conference Papers
 
