@@ -110,7 +110,7 @@ A list of Deepfakes Detection datasets, tools, papers and code. If this list hel
 * **Baidu Security**: [Website](http://weishi.baidu.com/product/deepfake)
 * **DeepReal**: [Website](https://deepfakes.real-ai.cn/)
 * **Image analyser**: [website](https://github.com/GuidoBartoli/sherloq)
-* **Image analyser**: [website](https://github.com/caomw/matlab-forensics)
+* **Image analysis -Algos**: [website](https://github.com/caomw/matlab-forensics)
 * **Synthetic (Fake) Canon CR2 generation** [Website](https://github.com/lclevy/libcraw2)
 
 ### Examples
