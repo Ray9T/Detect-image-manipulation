@@ -114,7 +114,7 @@ A list of Deepfakes Detection datasets, tools, papers and code. If this list hel
 * **Synthetic (Fake) Canon CR2 generation** [Website](https://github.com/lclevy/libcraw2)
 
 ### Examples
-* **Jonas Cloud images** [Website](https://www.linkedin.com/feed/update/urn:li:activity:7158730362553044993/)
+* **Jonas fake Cloud with Mt.Fuji images** [Website](https://www.linkedin.com/feed/update/urn:li:activity:7158730362553044993/)
 
 ## Recent Conference Papers
 
