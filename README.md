@@ -4,9 +4,7 @@
 Why is there an urgent need to address image fabrications?
 Start with the why. **Image fakery**: [Website](https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/)
 
-A list of Deepfakes Detection datasets, tools, papers and code. If this list help you in your research, a star is my pleasure.
-
-
+A list of Deepfakes Detection datasets, tools, papers and code ( Thanks to Daisy for the initial collection)
 ## Contents
 
 - [Datasets](#datasets)
